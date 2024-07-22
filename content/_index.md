@@ -10,4 +10,4 @@ outputs:
 - json
 ---
 
-Proven Software Platform Engineer with experience leveraging agile, DevOps, and CI/CD to manage large scale distributed platforms both on prem and in public cloud.
+As a dedicated UX/UI Designer and Frontend Developer with a passion for crafting intuitive and visually appealing digital experiences, I thrive on blending creativity with technical expertise to deliver impactful solutions. With a keen eye for detail and a deep understanding of user-centric design principles, I specialize in creating engaging interfaces that enhance user satisfaction and drive business objectives. Additionally, my part-time role as a Data Engineer allows me to leverage data-driven insights to inform design decisions and optimize user experiences. I am committed to continuous learning and staying abreast of industry trends to ensure that my work remains innovative and impactful. Let's connect and collaborate to create memorable digital experiences together
