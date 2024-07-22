@@ -15,7 +15,7 @@ lastName = "Lakshmi Narayanan"
 phone = "91 - 7397581009"
 profileImage = "https://avatars.githubusercontent.com/u/125726472?v=4"
 showQr = false
-showSocializations = false
+showSocializations = true
 showContact = false
 sections = ["skills","publications","creations","contributions","experience","education","blog"]
 
